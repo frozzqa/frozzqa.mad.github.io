@@ -1,5 +1,5 @@
-@import "_sroll.css";
-@import "_normalize.css";
+@import "../css/_sroll.css";
+@import "../css/_normalize.css";
 
 * {
    box-sizing: border-box;
